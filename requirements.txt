@@ -1,0 +1,7 @@
+asgiref~=3.7.2
+Django~=5.0.2
+django-debug-toolbar~=4.3.0
+pip~=22.0.2
+setuptools~=59.6.0
+sqlparse~=0.4.4
+typing_extensions~=4.9.0
