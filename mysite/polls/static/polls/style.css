@@ -1,0 +1,12 @@
+li a {
+	color: teal;
+}
+
+body {
+	background: white url("images/katto.jpeg") no-repeat; 
+/*	instead of images/background.jpeg*/
+	background-size: 960px;
+	background-position-x: center;
+	background-position: 50% -10%;
+
+}
